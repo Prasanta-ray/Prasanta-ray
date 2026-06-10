@@ -419,22 +419,24 @@ for belief, value in my_core_beliefs.items():
 ```
 🐑 WHY "SHAUN THE SHEEP"?
    └─ Like Shaun, I'm curious, resourceful, and always up for an adventure!
-   └─ Also like Shaun, I often get into interesting situations... with code 😅
+   └─ Also like Shaun, I often get into interesting situations... with code most of them are worst!
 
 🌍 LOCATION
-   └─ Kokrajhar, Assam, India 🇮🇳
+   └─ Kokrajhar, Assam, India
    └─ Time Zone: UTC +5:30
 
 ⏰ CURRENT TIME
    └─ It's 02:07 AM where I am right now
-   └─ Yes, I code at odd hours sometimes! 🌙
+   └─ Yes, I code at odd hours sometimes! 
 
 🏢 PART OF
-   └─ CodelithLabs - Student-powered coding lab
+   └─ CodelithLabs.in - Student-powered coding lab
+   └─ Fathm.net -  A game distrubution platform 
    └─ Building real software, not just tutorials
 
 🎯 CURRENT OBSESSION
    └─ C++ game development
+   └─ GO for backend 
    └─ Understanding how things REALLY work
    └─ Open source contribution
 
