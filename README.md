@@ -133,6 +133,7 @@ Right now I'm diving deep into:
 
 #### 💻 **General Programming**
 - Python scripting
+- Go, node.js
 - Web development (HTML/CSS/JS)
 - Git & GitHub workflows
 - Open source contribution
@@ -146,9 +147,9 @@ Right now I'm diving deep into:
 
 - [ ] Ship VectorDefense-Core alpha version
 - [ ] Make 100+ contributions to open source
-- [ ] Master C++ fundamentals
-- [ ] Build 5+ personal projects
-- [ ] Learn AI/ML basics
+- [ ] Master C++ fundamentals (25% done)
+- [ ] Build 5+ personal projects (with codelithlabs)
+- [ ] Learn AI/ML basics (I am very bad at that)
 - [ ] Grow CodelithLabs community
 - [ ] Write technical blog posts
 - [ ] Connect with 50+ developers
