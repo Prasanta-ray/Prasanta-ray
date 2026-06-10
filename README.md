@@ -548,7 +548,7 @@ while (alive) {
 
 <sup>📍 Kokrajhar, Assam, India | 🕐 UTC +5:30 | 🔗 <a href="https://github.com/Prasanta-ray">github.com/Prasanta-ray</a></sup>
 
-<sup>Last Updated: January 2026 | Profile Version 1.0 | Built with 🔥 by Shaun the Sheep</sup>
+<sup>Last Updated: Jun 2026 | Profile Version 1.0 | Built with 🔥 by Prasanta ray</sup>
 
 </div>
 
